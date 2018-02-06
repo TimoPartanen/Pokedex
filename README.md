@@ -1,12 +1,10 @@
 Pokedex
 
-Simple PHP&PostgreSQL example. I dont actually know much about Pokemon or its mechanics.
+Simppeli PHP&PostgreSQL esimerkki.
 
 -------------
-1. Use "createDatabaseScript.sql" to create database for your Pokedex.
-2. Copy root directory "Pokedex" to your server/localhost (wamp, lamp etc.)
-
-App should look about same as in Screenshots 1-4.
+1. Käytä "createDatabaseScript.sql" luodaksesi tietokannan sovellukselle.
+2. Kopio kansio "Pokedex" palvelimelle (wamp, lamp etc.)
 
 
 
